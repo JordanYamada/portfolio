@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Jordan Yamada",
+      "titles": [ "Code Meets Zen" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Square_Profile.jpg"
     },
     "skills": {
       "icons": [
