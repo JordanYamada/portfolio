@@ -13,40 +13,19 @@
       {
         "title": "Salmon Cookies",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "A Web Page featuring a fictional shop made to showcase my introduction to DOM manipulation.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/salmon_cookies/Screenshot_SalmonCookies.png"
         ],
-        "url": "",
-        "technologies": [
+        "url": "https://jordanyamada.github.io/cookie-stand/",
+        "technologies": [          
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,60 +34,64 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Madlib on the High Seas",
+        "startDate": "2022",
+        "description": "A fun mashup of Battleship and Mad Libs made to entertain users.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/madlib/Screenshot_MadlibOnTheHighSeas.png"
         ],
-        "url": "https://github.com",
+        "url": "https://green-velvet.github.io/Witty-Mad-Libs/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Odd Ducks",
+        "startDate": "2022",
+        "description": "A Web Page made for a fictional client asking to collect users’ votes on various odd products. This was made to introduce me to grid display in CSS, local storage and Chart.js.",
+        "images": [
+          "images/portfolio/odd_ducks/Screenshot_OddDuck.png"
+        ],
+        "url": "https://jordanyamada.github.io/odd-duck/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "United States Marine Corps",
+        "title": "Enlisted Air Traffic Controller",
+        "years": "05.2014 - 05.2019",
         "mainTech": [
-          "Angular 8/9/10"
+          "JO 7110.65U"
         ],
         "technologies": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "React"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Precision approach radars (PARs)",
+          "Standard Terminal Automation Replacement System (STARS)",
+          "VHF/UHF Tunable Radios"
         ]
       }
     ]
